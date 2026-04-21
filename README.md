@@ -65,4 +65,4 @@
 | Impact | Ransomware (T1486), DDoS (T1498) |
 
 ## 📝 Author
-**José Carol Lemus Reyes** | CyberOps Associate (Cisco)
+**José  Lemus ** | CyberOps Associate (Cisco)
