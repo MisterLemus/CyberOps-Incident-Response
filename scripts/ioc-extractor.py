@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 IOC (Indicators of Compromise) Extractor
-Author: José Carol Lemus Reyes
+Author: José  Lemus 
 Extracts IPs, domains, URLs, hashes, emails from text/logs
 """
 import re
